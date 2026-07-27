@@ -206,7 +206,7 @@ export default function Home() {
             {/* Hero Main Image Circle Wrapper */}
             <div className="hero-main-img-wrapper">
               <img 
-                src="/src/assets/images/hero_drink.png" 
+                src="/images/hero_drink.png" 
                 alt="BrewHaven Signature Strawberry Matcha Latte" 
                 className="hero-drink-img"
               />
@@ -313,7 +313,7 @@ export default function Home() {
 
             <div className="quiz-cta-image-wrapper">
               <img 
-                src="/src/assets/images/boba_taro.png" 
+                src="/images/boba_taro.png" 
                 alt="Taro Blossom Boba representation" 
                 className="quiz-cta-img" 
               />
@@ -415,37 +415,37 @@ export default function Home() {
 
           <div className="instagram-grid">
             <div className="instagram-card">
-              <img src="/src/assets/images/coffee_latte.png" alt="Aesthetic Latte" className="instagram-img" />
+              <img src="/images/coffee_latte.png" alt="Aesthetic Latte" className="instagram-img" />
               <div className="instagram-overlay">
                 <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
               </div>
             </div>
             <div className="instagram-card">
-              <img src="/src/assets/images/hero_drink.png" alt="Layered drink" className="instagram-img" />
+              <img src="/images/hero_drink.png" alt="Layered drink" className="instagram-img" />
               <div className="instagram-overlay">
                 <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
               </div>
             </div>
             <div className="instagram-card">
-              <img src="/src/assets/images/boba_taro.png" alt="Jasmine taro tea" className="instagram-img" />
+              <img src="/images/boba_taro.png" alt="Jasmine taro tea" className="instagram-img" />
               <div className="instagram-overlay">
                 <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
               </div>
             </div>
             <div className="instagram-card">
-              <img src="/src/assets/images/rose_espresso.png" alt="Macchiato rose" className="instagram-img" />
+              <img src="/images/rose_espresso.png" alt="Macchiato rose" className="instagram-img" />
               <div className="instagram-overlay">
                 <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
               </div>
             </div>
             <div className="instagram-card">
-              <img src="/src/assets/images/matcha_latte.png" alt="Matcha strawberry" className="instagram-img" />
+              <img src="/images/matcha_latte.png" alt="Matcha strawberry" className="instagram-img" />
               <div className="instagram-overlay">
                 <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
               </div>
             </div>
             <div className="instagram-card">
-              <img src="/src/assets/images/boba_strawberry.png" alt="Boba boba boba" className="instagram-img" />
+              <img src="/images/boba_strawberry.png" alt="Boba boba boba" className="instagram-img" />
               <div className="instagram-overlay">
                 <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
               </div>
@@ -470,3 +470,4 @@ export default function Home() {
     </div>
   );
 }
+

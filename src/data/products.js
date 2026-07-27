@@ -12,7 +12,7 @@ export const products = [
     isSpecial: true,
     isBestSeller: true,
     isLimited: false,
-    image: '/src/assets/images/coffee_latte.png',
+    image: '/images/coffee_latte.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 800 }
@@ -38,7 +38,7 @@ export const products = [
     isSpecial: false,
     isBestSeller: false,
     isLimited: true,
-    image: '/src/assets/images/rose_espresso.png',
+    image: '/images/rose_espresso.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 850 }
@@ -63,7 +63,7 @@ export const products = [
     isSpecial: true,
     isBestSeller: true,
     isLimited: false,
-    image: '/src/assets/images/matcha_latte.png',
+    image: '/images/matcha_latte.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 900 }
@@ -89,7 +89,7 @@ export const products = [
     isSpecial: false,
     isBestSeller: false,
     isLimited: true,
-    image: '/src/assets/images/sakura_matcha.png',
+    image: '/images/sakura_matcha.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 900 }
@@ -114,7 +114,7 @@ export const products = [
     isSpecial: false,
     isBestSeller: true,
     isLimited: false,
-    image: '/src/assets/images/boba_taro.png',
+    image: '/images/boba_taro.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 750 }
@@ -140,7 +140,7 @@ export const products = [
     isSpecial: true,
     isBestSeller: true,
     isLimited: false,
-    image: '/src/assets/images/boba_strawberry.png',
+    image: '/images/boba_strawberry.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 800 }
@@ -166,7 +166,7 @@ export const products = [
     isSpecial: false,
     isBestSeller: false,
     isLimited: false,
-    image: '/src/assets/images/smoothie_dragon.png',
+    image: '/images/smoothie_dragon.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 1000 }
@@ -192,7 +192,7 @@ export const products = [
     isSpecial: true,
     isBestSeller: false,
     isLimited: true,
-    image: '/src/assets/images/smoothie_berry.png',
+    image: '/images/smoothie_berry.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 1200 }
@@ -217,7 +217,7 @@ export const products = [
     isSpecial: true,
     isBestSeller: true,
     isLimited: false,
-    image: '/src/assets/images/milkshake_unicorn.png',
+    image: '/images/milkshake_unicorn.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 1000 }
@@ -243,7 +243,7 @@ export const products = [
     isSpecial: false,
     isBestSeller: false,
     isLimited: false,
-    image: '/src/assets/images/milkshake_cookie.png',
+    image: '/images/milkshake_cookie.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 900 }
@@ -269,7 +269,7 @@ export const products = [
     isSpecial: false,
     isBestSeller: false,
     isLimited: false,
-    image: '/src/assets/images/refresher_rose.png',
+    image: '/images/refresher_rose.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 700 }
@@ -295,7 +295,7 @@ export const products = [
     isSpecial: true,
     isBestSeller: true,
     isLimited: false,
-    image: '/src/assets/images/refresher_peach.png',
+    image: '/images/refresher_peach.png',
     sizes: [
       { name: 'Regular', priceAdjustment: 0 },
       { name: 'Large', priceAdjustment: 750 }
@@ -320,7 +320,7 @@ export const products = [
     isSpecial: true,
     isBestSeller: true,
     isLimited: false,
-    image: '/src/assets/images/dessert_cake.png',
+    image: '/images/dessert_cake.png',
     sizes: [
       { name: 'Single Slice', priceAdjustment: 0 },
       { name: 'Whole Cake (Pre-order)', priceAdjustment: 32000 }
@@ -345,7 +345,7 @@ export const products = [
     isSpecial: false,
     isBestSeller: false,
     isLimited: false,
-    image: '/src/assets/images/dessert_crepe.png',
+    image: '/images/dessert_crepe.png',
     sizes: [
       { name: 'Single Slice', priceAdjustment: 0 },
       { name: 'Whole Cake (Pre-order)', priceAdjustment: 36000 }
@@ -370,7 +370,7 @@ export const products = [
     isSpecial: false,
     isBestSeller: false,
     isLimited: true,
-    image: '/src/assets/images/dessert_macaron.png',
+    image: '/images/dessert_macaron.png',
     sizes: [
       { name: 'Regular Size', priceAdjustment: 0 }
     ],
@@ -381,3 +381,4 @@ export const products = [
     ]
   }
 ];
+

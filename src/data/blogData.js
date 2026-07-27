@@ -9,7 +9,7 @@ export const blogPosts = [
     role: 'Wellness Consultant',
     date: 'July 15, 2026',
     readTime: '4 min read',
-    image: '/src/assets/images/blog_matcha.png'
+    image: '/images/blog_matcha.png'
   },
   {
     id: 'coffee-brewing-guide',
@@ -21,7 +21,7 @@ export const blogPosts = [
     role: 'Head Barista',
     date: 'July 22, 2026',
     readTime: '6 min read',
-    image: '/src/assets/images/blog_coffee.png'
+    image: '/images/blog_coffee.png'
   },
   {
     id: 'smoothie-recipes-summer',
@@ -33,7 +33,7 @@ export const blogPosts = [
     role: 'Nutritionist',
     date: 'July 10, 2026',
     readTime: '5 min read',
-    image: '/src/assets/images/blog_smoothie.png'
+    image: '/images/blog_smoothie.png'
   },
   {
     id: 'behind-the-scenes-brew',
@@ -45,7 +45,7 @@ export const blogPosts = [
     role: 'Founder & Tea Curator',
     date: 'June 28, 2026',
     readTime: '7 min read',
-    image: '/src/assets/images/blog_behind_scenes.png'
+    image: '/images/blog_behind_scenes.png'
   },
   {
     id: 'coffee-art-tips',
@@ -57,7 +57,7 @@ export const blogPosts = [
     role: 'Head Barista',
     date: 'July 05, 2026',
     readTime: '5 min read',
-    image: '/src/assets/images/blog_latte_art.png'
+    image: '/images/blog_latte_art.png'
   },
   {
     id: 'healthy-drink-alternatives',
@@ -69,6 +69,7 @@ export const blogPosts = [
     role: 'Nutritionist',
     date: 'June 18, 2026',
     readTime: '4 min read',
-    image: '/src/assets/images/blog_healthy.png'
+    image: '/images/blog_healthy.png'
   }
 ];
+
