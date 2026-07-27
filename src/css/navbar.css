@@ -39,7 +39,7 @@
 .navbar {
   position: sticky;
   top: 0;
-  background-color: var(--glass-bg);
+  background-color: var(--color-bg);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--color-border);
