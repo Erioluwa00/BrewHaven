@@ -259,7 +259,8 @@ export default function QuickViewModal({ product, onClose }) {
           background-color: #FFF0F5;
           border-radius: var(--border-radius-md);
           overflow: hidden;
-          height: 500px;
+          height: 100%;
+          min-height: 500px;
         }
 
         .quickview-img {
